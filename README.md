@@ -1,7 +1,8 @@
 ## 👨🏻‍💻 Vitor Amorim
 
+**`Cientista de Dados com ênfase em Otimização`**
 
-
+Me chamo Vitor Amorim, sou professor e cientístia dedicado à área de dados e programação. Mestrando em Informática pela UFES e Bacharel em Engenharia de Produção pelo IFES, participei por 5 anos do Laboratório de Física Computacional. Atuo no desenvolvimento de algoritmos, análise de dados e otimização de processos, sendo apaixonado por inteligência artificial, otimização e meta-heurística. 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/amorim-vitor/">
@@ -89,6 +90,7 @@
 
 ### 📊 Estatísticas
 
+
 <p>
   <img 
     align="left" 
@@ -101,30 +103,8 @@
 <img 
       align="left" 
       alt="GitHub Stats" 
-      style="display: block; width: 450px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitordsAmorim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
-
-<!--
-<div style="display: flex; align-items: center;">
-  <div style="flex-shrink: 0; margin-right: 10px;">
-    <img 
-      alt="GitHub Stats" 
-      height="200" 
-      style="display: block;" 
-      src="https://github-readme-stats.vercel.app/api?username=VitordsAmorim&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-    />
-  </div>
-  <div style="flex-shrink: 0;">
-    <img 
-      alt="GitHub Stats" 
-      height="200" 
-
-      
-      style="display: block; width: 30px;" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitordsAmorim&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-    />
-  </div>
-</div>-->

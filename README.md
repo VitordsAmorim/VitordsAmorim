@@ -12,11 +12,18 @@ Me chamo Vitor Amorim, sou professor e cientístia dedicado à área de dados e 
       src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Perfil?color=0A66C2&style=for-the-badge&logo=linkedin&logoColor=white" 
     />
   </a>
+    <a href="mailto:amorim.vitor.ds@gmail.com">
+    <img 
+      alt="Email" 
+      title="Envie-me um email" 
+      src="https://custom-icon-badges.demolab.com/badge/Gmail-Contato?color=EA4335&style=for-the-badge&logo=Gmail&logoColor=white" 
+    />
+  </a>
   <a href="http://lattes.cnpq.br/8814793064448628">
     <img 
       alt="Lattes" 
       title="Currículo Lattes" 
-      src="https://custom-icon-badges.demolab.com/badge/Lattes-Curr%C3%ADculo?color=blue&style=for-the-badge" 
+      src="https://custom-icon-badges.demolab.com/badge/Lattes-Curr%C3%ADculo?color=0D47A1&style=for-the-badge" 
     />
   </a>
   <a href="https://www.instagram.com/amorim.ds.vitor/">
@@ -24,13 +31,6 @@ Me chamo Vitor Amorim, sou professor e cientístia dedicado à área de dados e 
       alt="Instagram" 
       title="Instagram" 
       src="https://custom-icon-badges.demolab.com/badge/Instagram-Siga?color=E1306C&style=for-the-badge&logo=instagram&logoColor=white" 
-    />
-  </a>
-  <a href="mailto:amorim.vitor.ds@gmail.com">
-    <img 
-      alt="Email" 
-      title="Envie-me um email" 
-      src="https://custom-icon-badges.demolab.com/badge/Email-Contato?color=EA4335&style=for-the-badge&logo=gmail&logoColor=white" 
     />
   </a>
 </p>

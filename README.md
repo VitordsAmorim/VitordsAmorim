@@ -38,7 +38,7 @@ Me chamo Vitor Amorim, sou professor e cientístia dedicado à área de dados e 
 
 
 ---
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
